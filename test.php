@@ -1,6 +1,11 @@
 Allo
 
 git add Fichier
-git commit -m 'Message'
+
+
+Quelqu'un modifi ca
+
 git push origin master
+
+
 
